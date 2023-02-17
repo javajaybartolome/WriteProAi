@@ -13,3 +13,6 @@ Text Completion: WriteProAI helps users generate high-quality and coherent conte
 User-friendly Interface and Customizable Settings: The software offers a user-friendly interface that is easy to navigate and customize to suit the user's needs and preferences.
 
 Continuous Learning Capabilities: WriteProAI constantly learns from its usage and improves its performance over time, making it an ever-evolving and adaptable tool.
+
+📞 Contact
+For any questions or inquiries about the project, please contact Java Jay Bartolome at (javajaybartolome@gmail.com).
